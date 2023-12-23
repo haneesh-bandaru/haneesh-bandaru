@@ -27,8 +27,4 @@ Front-End Developer with 1 year of hands-on experience. Proficient in React Js a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/haneesh-bandaru/"><img src="https://github-readme-stats.vercel.app/api?username=haneesh-bandaru/&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="haneesh-bandaru/'s GitHub stats" /></a>
-
 <a href="http://www.github.com/haneesh-bandaru/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haneesh-bandaru/&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/haneesh-bandaru/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneesh-bandaru/&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
