@@ -6,7 +6,7 @@ Web Developer and Designer
 
 Front-End Developer with 1 year of hands-on experience. Proficient in React Js and JavaScript, I specialize in creating sleek, user-friendly interfaces. My unique edge lies in blending front-end development with UI/UX skills, ensuring seamless and visually appealing applications. My career goal is to craft simple yet elegant solutions that enhance user experiences. Eager to contribute my skills and creativity to dynamic teams, I thrive on staying current with the latest technologies in the fast-evolving world of web development.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://haneeshbandaru.vercel.app)
+* 🖥️  See my portfolio at [Haneesh Bandaru](http://haneeshbandaru.vercel.app)
 * ✉️  You can contact me at [haneeshbandaru@gmail.com](mailto:haneeshbandaru@gmail.com)
 * 🧠  I'm learning Next js
 * 🤝  I'm open to collaborating on Web Development Projects
